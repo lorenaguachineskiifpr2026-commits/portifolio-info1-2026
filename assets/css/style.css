@@ -2,7 +2,7 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
         header{
             border-style: solid; 
             border-width: 10px;
-            border-color: firebrick;
+            border-color: rgb(127, 200, 223);
             margin: 10px;
             padding: 10px;
             background-color:dodgerblue;
