@@ -26,9 +26,9 @@
             padding: 10px;
         }
         section {
-             border-style: solid; 
+             border-style: dotted; 
             border-width: 10px;
-            border-color:darkgray;
+            border-color:rgb(122, 212, 62);
             margin: 10px;
             padding: 10px;
             background-color: darkgoldenrod;
@@ -39,7 +39,7 @@
             border-color: rgb(127, 200, 223);
             margin: 10px;
             padding: 10px;
-            background-color:greenyellow ;
+            background-color:rgb(37, 197, 64) ;
         }
         aside{
             border-style: solid; 
