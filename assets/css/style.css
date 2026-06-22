@@ -23,17 +23,17 @@
             padding: 10px;
         }
         section {
-             border-style: dotted; 
+             border-style:solid; 
             border-width: 10px;
-            border-color:rgb(122, 212, 62);
+            border-color:darkgrey;
             margin: 10px;
             padding: 10px;
             background-color: darkgoldenrod;
         }
         article{
-             border-style: solid; 
+             border-style: dashed; 
             border-width: 10px;
-            border-color: rgb(127, 200, 223);
+            border-color: rgb(22, 161, 92);
             margin: 10px;
             padding: 10px;
             background-color:rgb(37, 197, 64) ;
