@@ -10,7 +10,7 @@
         }
         nav{
             border: 10px solid rgb(26, 126, 209);
-            margin: 50px;
+            margin: 10px;
             padding: 10px;
             background-color: rgb(253, 141, 35);
             background-clip: content-box;
@@ -19,7 +19,7 @@
         main{
             border: 10px solid lightgray; 
             border-color:darkgrey;
-            margin: 50px;
+            margin: 10px;
             padding: 10px;
             background-color: rgb(219, 219, 219);
             background-clip: content-box;
@@ -57,6 +57,5 @@
             padding: 10px;
             background-color: rgb(41, 40, 40);
             background-clip: content-box;
-            margin: 20px;
             text-align: center;
         }
