@@ -34,8 +34,7 @@
             background-clip: content-box;
         }
         article{
-            border-style: dashed; 
-            border-width: 3px;
+            border-style: 1px dotted; 
             border-color: rgb(22, 161, 92);
             margin: 10px;
             padding: 10px;
