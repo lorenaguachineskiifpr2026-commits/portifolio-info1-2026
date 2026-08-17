@@ -1,20 +1,17 @@
 .container {
   display: flex;
+  justify-content: center;
   flex-direction: row;
-  background-color: rgb(103, 105, 107);
-    align-items: center;
-  justify-content:center;
-  flex-direction: row;
+  background-color: gray;
 }
-.quadrado {
-  background-color: hsl(0, 100%, 50%);
-  width: 100px;
-  margin: 100px;
-  padding: 100px;
+
+.container div {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  margin: 50px;
+  padding: 50px;
   text-align: center;  
-  font-size: 30px;
-  display: flex;
-  justify-content:center;
-  flex-direction: row;
-  
+
 }
+
