@@ -13,4 +13,8 @@
   padding: 100px;
   text-align: center;  
   font-size: 30px;
+  display: flex;
+  justify-content:center;
+  flex-direction: row;
+  
 }
